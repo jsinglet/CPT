@@ -11,6 +11,8 @@ namespace CPT
         static void Main(string[] args)
         {
             Console.WriteLine("Cross Platform.");
+            Console.WriteLine("And F#?" + Stuff.add(1,2));
+
         }
     }
 }

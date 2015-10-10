@@ -4,3 +4,8 @@ c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\bin\Debug\CPT.pdb
 c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\obj\Debug\CPT.csprojResolveAssemblyReference.cache
 c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\obj\Debug\CPT.exe
 c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\obj\Debug\CPT.pdb
+c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\bin\Debug\FSParts.exe
+c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\bin\Debug\FSharp.Core.dll
+c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\bin\Debug\FSParts.pdb
+c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\bin\Debug\FSParts.xml
+c:\users\jls\Projects\CrossPlatformTest\CPT\CPT\bin\Debug\FSharp.Core.xml

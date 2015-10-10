@@ -1,0 +1,8 @@
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\bin\Debug\FSParts.exe.config
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\bin\Debug\FSParts.XML
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\bin\Debug\FSParts.exe
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\bin\Debug\FSParts.pdb
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\bin\Debug\FSharp.Core.dll
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\bin\Debug\FSharp.Core.xml
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\obj\Debug\FSParts.exe
+c:\Users\jls\Projects\CrossPlatformTest\CPT\FSParts\obj\Debug\FSParts.pdb
